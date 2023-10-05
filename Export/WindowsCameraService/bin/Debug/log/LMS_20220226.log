@@ -1,0 +1,325 @@
+2022/02/26 07:05:33,930 DEBUG - D:\Project\Pana\ExportData\Export\WindowsCameraService\bin\Debug\Camera/DataCameras.xml
+2022/02/26 07:05:33,989 DEBUG - 1
+2022/02/26 07:05:34,101 DEBUG - Server=localhost;Database=ThermalCamera;User Id=sa;Password=123456789;
+2022/02/26 07:05:34,111 DEBUG - Service Started
+2022/02/26 07:10:00,509 DEBUG - D:\Project\Pana\ExportData\Export\WindowsCameraService\bin\Debug\Camera/DataCameras.xml
+2022/02/26 07:10:00,560 DEBUG - 1
+2022/02/26 07:10:00,633 DEBUG - Server=localhost;Database=ThermalCamera;User Id=sa;Password=123456789;
+2022/02/26 07:10:00,642 DEBUG - Service Started
+2022/02/26 07:10:00,646 INFO  - API : http://192.168.1.60/axis-cgi/temperature_alarm/getzonestatus.cgi?
+2022/02/26 07:10:00,969 INFO  - Value cannot be null.
+2022/02/26 07:10:30,678 INFO  - API : http://192.168.1.60/axis-cgi/temperature_alarm/getzonestatus.cgi?
+2022/02/26 07:10:30,950 INFO  - Value cannot be null.
+2022/02/26 07:11:00,690 INFO  - API : http://192.168.1.60/axis-cgi/temperature_alarm/getzonestatus.cgi?
+2022/02/26 07:11:00,876 INFO  - Value cannot be null.
+2022/02/26 07:14:25,689 DEBUG - D:\Project\Pana\ExportData\Export\WindowsCameraService\bin\Debug\Camera/DataCameras.xml
+2022/02/26 07:14:25,736 DEBUG - 1
+2022/02/26 07:14:25,808 DEBUG - Server=localhost;Database=ThermalCamera;User Id=sa;Password=123456789;
+2022/02/26 07:14:25,818 DEBUG - Service Started
+2022/02/26 07:18:57,432 DEBUG - D:\Project\Pana\ExportData\Export\WindowsCameraService\bin\Debug\Camera/DataCameras.xml
+2022/02/26 07:20:40,071 DEBUG - D:\Project\Pana\ExportData\Export\WindowsCameraService\bin\Debug\Camera/DataCameras.xml
+2022/02/26 07:20:40,111 DEBUG - 1
+2022/02/26 07:20:40,184 DEBUG - Server=localhost;Database=ThermalCamera;User Id=sa;Password=123456789;
+2022/02/26 07:20:40,192 DEBUG - Service Started
+2022/02/26 07:20:40,196 INFO  - Exception : Input string was not in a correct format.
+2022/02/26 07:21:10,214 INFO  - Exception : Input string was not in a correct format.
+2022/02/26 07:21:46,604 DEBUG - D:\Project\Pana\ExportData\Export\WindowsCameraService\bin\Debug\Camera/DataCameras.xml
+2022/02/26 07:21:46,658 DEBUG - 1
+2022/02/26 07:21:46,730 DEBUG - Server=localhost;Database=ThermalCamera;User Id=sa;Password=123456789;
+2022/02/26 07:21:46,740 DEBUG - Service Started
+2022/02/26 07:21:46,744 INFO  - User : root and Password root
+2022/02/26 07:21:46,745 INFO  - API : http://192.168.1.60/axis-cgi/temperature_alarm/getzonestatus.cgi?
+2022/02/26 07:21:47,078 INFO  - data
+2022/02/26 07:21:47,091 INFO  - Exception : Value cannot be null.
+2022/02/26 07:22:16,768 INFO  - User : root and Password root
+2022/02/26 07:22:16,768 INFO  - API : http://192.168.1.60/axis-cgi/temperature_alarm/getzonestatus.cgi?
+2022/02/26 07:22:17,080 INFO  - data
+2022/02/26 07:22:17,080 INFO  - Exception : Value cannot be null.
+2022/02/26 07:22:46,773 INFO  - User : root and Password root
+2022/02/26 07:22:46,773 INFO  - API : http://192.168.1.60/axis-cgi/temperature_alarm/getzonestatus.cgi?
+2022/02/26 07:22:47,043 INFO  - data
+2022/02/26 07:22:47,043 INFO  - Exception : Value cannot be null.
+2022/02/26 07:23:16,781 INFO  - User : root and Password root
+2022/02/26 07:23:16,781 INFO  - API : http://192.168.1.60/axis-cgi/temperature_alarm/getzonestatus.cgi?
+2022/02/26 07:23:17,081 INFO  - data
+2022/02/26 07:23:17,082 INFO  - Exception : Value cannot be null.
+2022/02/26 07:23:46,803 INFO  - User : root and Password root
+2022/02/26 07:23:46,803 INFO  - API : http://192.168.1.60/axis-cgi/temperature_alarm/getzonestatus.cgi?
+2022/02/26 07:23:47,177 INFO  - data
+2022/02/26 07:23:47,177 INFO  - Exception : Value cannot be null.
+2022/02/26 07:24:16,814 INFO  - User : root and Password root
+2022/02/26 07:24:16,814 INFO  - API : http://192.168.1.60/axis-cgi/temperature_alarm/getzonestatus.cgi?
+2022/02/26 07:24:17,044 INFO  - data
+2022/02/26 07:24:17,045 INFO  - Exception : Value cannot be null.
+2022/02/26 07:24:46,825 INFO  - User : root and Password root
+2022/02/26 07:24:46,825 INFO  - API : http://192.168.1.60/axis-cgi/temperature_alarm/getzonestatus.cgi?
+2022/02/26 07:24:47,125 INFO  - data
+2022/02/26 07:24:47,127 INFO  - Exception : Value cannot be null.
+2022/02/26 07:25:16,843 INFO  - User : root and Password root
+2022/02/26 07:25:16,843 INFO  - API : http://192.168.1.60/axis-cgi/temperature_alarm/getzonestatus.cgi?
+2022/02/26 07:25:17,231 INFO  - data
+2022/02/26 07:25:17,232 INFO  - Exception : Value cannot be null.
+2022/02/26 07:25:46,857 INFO  - User : root and Password root
+2022/02/26 07:25:46,857 INFO  - API : http://192.168.1.60/axis-cgi/temperature_alarm/getzonestatus.cgi?
+2022/02/26 07:25:47,195 INFO  - data
+2022/02/26 07:25:47,196 INFO  - Exception : Value cannot be null.
+2022/02/26 07:26:16,863 INFO  - User : root and Password root
+2022/02/26 07:26:16,863 INFO  - API : http://192.168.1.60/axis-cgi/temperature_alarm/getzonestatus.cgi?
+2022/02/26 07:26:17,208 INFO  - data
+2022/02/26 07:26:17,208 INFO  - Exception : Value cannot be null.
+2022/02/26 07:26:46,869 INFO  - User : root and Password root
+2022/02/26 07:26:46,869 INFO  - API : http://192.168.1.60/axis-cgi/temperature_alarm/getzonestatus.cgi?
+2022/02/26 07:26:47,264 INFO  - data
+2022/02/26 07:26:47,266 INFO  - Exception : Value cannot be null.
+2022/02/26 07:27:16,872 INFO  - User : root and Password root
+2022/02/26 07:27:16,872 INFO  - API : http://192.168.1.60/axis-cgi/temperature_alarm/getzonestatus.cgi?
+2022/02/26 07:27:17,214 INFO  - data
+2022/02/26 07:27:17,215 INFO  - Exception : Value cannot be null.
+2022/02/26 07:27:46,888 INFO  - User : root and Password root
+2022/02/26 07:27:46,889 INFO  - API : http://192.168.1.60/axis-cgi/temperature_alarm/getzonestatus.cgi?
+2022/02/26 07:27:47,228 INFO  - data
+2022/02/26 07:27:47,228 INFO  - Exception : Value cannot be null.
+2022/02/26 07:28:21,905 DEBUG - D:\Project\Pana\ExportData\Export\WindowsCameraService\bin\Debug\Camera/DataCameras.xml
+2022/02/26 07:28:21,969 DEBUG - 1
+2022/02/26 07:28:22,033 DEBUG - Server=localhost;Database=ThermalCamera;User Id=sa;Password=123456789;
+2022/02/26 07:28:22,041 DEBUG - Service Started
+2022/02/26 07:28:22,045 INFO  - User : root and Password root
+2022/02/26 07:28:22,045 INFO  - API : http://192.168.1.60/axis-cgi/temperature_alarm/getzonestatus.cgi?
+2022/02/26 07:28:22,348 INFO  - data <?xml version="1.0" encoding="utf-8"?>
+<TemperatureResponse SchemaVersion="1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.axis.com/vapix/http_cgi/Temperature1.xsd"><Success><GetZoneStatusSuccess><AlarmZone><ZoneId>0</ZoneId><AverageTemperature>22</AverageTemperature><MinimumTemperature>22</MinimumTemperature><MaximumTemperature>22</MaximumTemperature><Triggered>No</Triggered></AlarmZone><AlarmZone><ZoneId>1</ZoneId><AverageTemperature>22</AverageTemperature><MinimumTemperature>22</MinimumTemperature><MaximumTemperature>22</MaximumTemperature><Triggered>No</Triggered></AlarmZone><AlarmZone><ZoneId>2</ZoneId><AverageTemperature>22</AverageTemperature><MinimumTemperature>22</MinimumTemperature><MaximumTemperature>22</MaximumTemperature><Triggered>No</Triggered></AlarmZone><AlarmZone><ZoneId>3</ZoneId><AverageTemperature>22</AverageTemperature><MinimumTemperature>22</MinimumTemperature><MaximumTemperature>22</MaximumTemperature><Triggered>No</Triggered></AlarmZone><AlarmZone><ZoneId>4</ZoneId><AverageTemperature>22</AverageTemperature><MinimumTemperature>22</MinimumTemperature><MaximumTemperature>22</MaximumTemperature><Triggered>No</Triggered></AlarmZone><AlarmZone><ZoneId>5</ZoneId><AverageTemperature>22</AverageTemperature><MinimumTemperature>22</MinimumTemperature><MaximumTemperature>22</MaximumTemperature><Triggered>No</Triggered></AlarmZone></GetZoneStatusSuccess></Success></TemperatureResponse>
+
+2022/02/26 07:28:22,361 INFO  - Exception : Value cannot be null.
+2022/02/26 07:28:52,084 INFO  - User : root and Password root
+2022/02/26 07:28:52,084 INFO  - API : http://192.168.1.60/axis-cgi/temperature_alarm/getzonestatus.cgi?
+2022/02/26 07:28:52,295 INFO  - data <?xml version="1.0" encoding="utf-8"?>
+<TemperatureResponse SchemaVersion="1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.axis.com/vapix/http_cgi/Temperature1.xsd"><Success><GetZoneStatusSuccess><AlarmZone><ZoneId>0</ZoneId><AverageTemperature>22</AverageTemperature><MinimumTemperature>22</MinimumTemperature><MaximumTemperature>22</MaximumTemperature><Triggered>No</Triggered></AlarmZone><AlarmZone><ZoneId>1</ZoneId><AverageTemperature>22</AverageTemperature><MinimumTemperature>22</MinimumTemperature><MaximumTemperature>22</MaximumTemperature><Triggered>No</Triggered></AlarmZone><AlarmZone><ZoneId>2</ZoneId><AverageTemperature>22</AverageTemperature><MinimumTemperature>22</MinimumTemperature><MaximumTemperature>22</MaximumTemperature><Triggered>No</Triggered></AlarmZone><AlarmZone><ZoneId>3</ZoneId><AverageTemperature>22</AverageTemperature><MinimumTemperature>22</MinimumTemperature><MaximumTemperature>22</MaximumTemperature><Triggered>No</Triggered></AlarmZone><AlarmZone><ZoneId>4</ZoneId><AverageTemperature>22</AverageTemperature><MinimumTemperature>22</MinimumTemperature><MaximumTemperature>22</MaximumTemperature><Triggered>No</Triggered></AlarmZone><AlarmZone><ZoneId>5</ZoneId><AverageTemperature>22</AverageTemperature><MinimumTemperature>22</MinimumTemperature><MaximumTemperature>23</MaximumTemperature><Triggered>No</Triggered></AlarmZone></GetZoneStatusSuccess></Success></TemperatureResponse>
+
+2022/02/26 07:28:52,296 INFO  - Exception : Value cannot be null.
+2022/02/26 07:33:34,664 DEBUG - D:\Project\Pana\ExportData\Export\WindowsCameraService\bin\Debug\Camera/DataCameras.xml
+2022/02/26 07:33:34,709 DEBUG - 1
+2022/02/26 07:33:34,787 DEBUG - Server=localhost;Database=ThermalCamera;User Id=sa;Password=123456789;
+2022/02/26 07:33:34,797 DEBUG - Service Started
+2022/02/26 07:33:35,186 INFO  - ****0
+2022/02/26 07:33:35,186 INFO  - Exception : Value cannot be null.
+2022/02/26 07:34:05,176 INFO  - ****0
+2022/02/26 07:34:05,177 INFO  - Exception : Value cannot be null.
+2022/02/26 07:34:35,076 INFO  - ****0
+2022/02/26 07:34:35,076 INFO  - Exception : Value cannot be null.
+2022/02/26 07:35:05,223 INFO  - ****0
+2022/02/26 07:35:05,223 INFO  - Exception : Value cannot be null.
+2022/02/26 07:35:35,287 INFO  - ****0
+2022/02/26 07:35:35,288 INFO  - Exception : Value cannot be null.
+2022/02/26 07:36:05,195 INFO  - ****0
+2022/02/26 07:36:05,196 INFO  - Exception : Value cannot be null.
+2022/02/26 07:36:35,398 INFO  - ****0
+2022/02/26 07:36:35,399 INFO  - Exception : Value cannot be null.
+2022/02/26 07:37:05,297 INFO  - ****0
+2022/02/26 07:37:05,298 INFO  - Exception : Value cannot be null.
+2022/02/26 07:37:35,301 INFO  - ****0
+2022/02/26 07:37:35,301 INFO  - Exception : Value cannot be null.
+2022/02/26 07:38:05,303 INFO  - ****0
+2022/02/26 07:38:05,303 INFO  - Exception : Value cannot be null.
+2022/02/26 07:38:35,410 INFO  - ****0
+2022/02/26 07:38:35,410 INFO  - Exception : Value cannot be null.
+2022/02/26 07:39:17,388 DEBUG - D:\Project\Pana\ExportData\Export\WindowsCameraService\bin\Debug\Camera/DataCameras.xml
+2022/02/26 07:39:17,437 DEBUG - 1
+2022/02/26 07:39:17,512 DEBUG - Server=localhost;Database=ThermalCamera;User Id=sa;Password=123456789;
+2022/02/26 07:39:17,521 DEBUG - Service Started
+2022/02/26 07:39:17,916 INFO  - CameraId 1
+2022/02/26 07:39:17,916 INFO  - *******************
+2022/02/26 07:39:17,916 INFO  - Exception : Value cannot be null.
+2022/02/26 07:39:47,819 INFO  - CameraId 1
+2022/02/26 07:39:47,819 INFO  - *******************
+2022/02/26 07:39:47,819 INFO  - Exception : Value cannot be null.
+2022/02/26 07:40:18,014 INFO  - CameraId 1
+2022/02/26 07:40:18,014 INFO  - *******************
+2022/02/26 07:40:18,014 INFO  - Exception : Value cannot be null.
+2022/02/26 07:41:06,301 DEBUG - D:\Project\Pana\ExportData\Export\WindowsCameraService\bin\Debug\Camera/DataCameras.xml
+2022/02/26 07:41:06,350 DEBUG - 1
+2022/02/26 07:41:06,421 DEBUG - Server=localhost;Database=ThermalCamera;User Id=sa;Password=123456789;
+2022/02/26 07:41:06,430 DEBUG - Service Started
+2022/02/26 07:41:06,870 INFO  - CameraId 1
+2022/02/26 07:41:06,871 INFO  - *******************
+2022/02/26 07:41:06,871 INFO  - *********
+2022/02/26 07:41:06,872 INFO  - *******************
+2022/02/26 07:41:36,862 INFO  - CameraId 1
+2022/02/26 07:41:36,863 INFO  - *******************
+2022/02/26 07:41:36,863 INFO  - *********
+2022/02/26 07:41:36,863 INFO  - *******************
+2022/02/26 07:42:01,743 INFO  - Leng queue : 1
+2022/02/26 07:42:06,865 INFO  - CameraId 1
+2022/02/26 07:42:06,865 INFO  - *******************
+2022/02/26 07:42:06,865 INFO  - *********
+2022/02/26 07:42:06,866 INFO  - *******************
+2022/02/26 07:42:36,970 INFO  - CameraId 1
+2022/02/26 07:42:36,972 INFO  - *******************
+2022/02/26 07:42:36,972 INFO  - *********
+2022/02/26 07:42:36,972 INFO  - *******************
+2022/02/26 07:42:47,290 INFO  - Leng queue : 1
+2022/02/26 07:43:06,872 INFO  - CameraId 1
+2022/02/26 07:43:06,873 INFO  - *******************
+2022/02/26 07:43:06,873 INFO  - *********
+2022/02/26 07:43:06,873 INFO  - *******************
+2022/02/26 07:43:32,307 INFO  - Leng queue : 1
+2022/02/26 07:43:36,977 INFO  - CameraId 1
+2022/02/26 07:43:36,978 INFO  - *******************
+2022/02/26 07:43:36,978 INFO  - *********
+2022/02/26 07:43:36,978 INFO  - *******************
+2022/02/26 07:44:06,981 INFO  - CameraId 1
+2022/02/26 07:44:06,982 INFO  - *******************
+2022/02/26 07:44:06,982 INFO  - *********
+2022/02/26 07:44:06,982 INFO  - *******************
+2022/02/26 07:44:17,331 INFO  - Leng queue : 1
+2022/02/26 07:44:36,983 INFO  - CameraId 1
+2022/02/26 07:44:36,984 INFO  - *******************
+2022/02/26 07:44:36,984 INFO  - *********
+2022/02/26 07:44:36,984 INFO  - *******************
+2022/02/26 07:45:06,774 INFO  - CameraId 1
+2022/02/26 07:45:06,774 INFO  - *******************
+2022/02/26 07:45:06,775 INFO  - *********
+2022/02/26 07:45:06,775 INFO  - *******************
+2022/02/26 07:45:23,285 INFO  - Leng queue : 1
+2022/02/26 07:45:36,837 INFO  - CameraId 1
+2022/02/26 07:45:36,837 INFO  - *******************
+2022/02/26 07:45:36,837 INFO  - *********
+2022/02/26 07:45:36,837 INFO  - *******************
+2022/02/26 07:46:06,992 INFO  - CameraId 1
+2022/02/26 07:46:06,992 INFO  - *******************
+2022/02/26 07:46:06,993 INFO  - *********
+2022/02/26 07:46:06,993 INFO  - *******************
+2022/02/26 07:46:11,934 INFO  - Leng queue : 1
+2022/02/26 07:46:36,894 INFO  - CameraId 1
+2022/02/26 07:46:36,894 INFO  - *******************
+2022/02/26 07:46:36,894 INFO  - *********
+2022/02/26 07:46:36,894 INFO  - *******************
+2022/02/26 07:47:07,004 INFO  - CameraId 1
+2022/02/26 07:47:07,004 INFO  - *******************
+2022/02/26 07:47:07,004 INFO  - *********
+2022/02/26 07:47:07,005 INFO  - *******************
+2022/02/26 07:47:37,002 INFO  - CameraId 1
+2022/02/26 07:47:37,002 INFO  - *******************
+2022/02/26 07:47:37,002 INFO  - *********
+2022/02/26 07:47:37,002 INFO  - *******************
+2022/02/26 07:47:42,471 INFO  - Leng queue : 1
+2022/02/26 07:48:07,007 INFO  - CameraId 1
+2022/02/26 07:48:07,008 INFO  - *******************
+2022/02/26 07:48:07,008 INFO  - *********
+2022/02/26 07:48:07,008 INFO  - *******************
+2022/02/26 07:48:31,921 INFO  - Leng queue : 1
+2022/02/26 07:48:37,008 INFO  - CameraId 1
+2022/02/26 07:48:37,009 INFO  - *******************
+2022/02/26 07:48:37,009 INFO  - *********
+2022/02/26 07:48:37,009 INFO  - *******************
+2022/02/26 07:49:07,013 INFO  - CameraId 1
+2022/02/26 07:49:07,013 INFO  - *******************
+2022/02/26 07:49:07,013 INFO  - *********
+2022/02/26 07:49:07,014 INFO  - *******************
+2022/02/26 07:49:37,118 INFO  - CameraId 1
+2022/02/26 07:49:37,119 INFO  - *******************
+2022/02/26 07:49:37,119 INFO  - *********
+2022/02/26 07:49:37,120 INFO  - *******************
+2022/02/26 07:50:07,017 INFO  - CameraId 1
+2022/02/26 07:50:07,018 INFO  - *******************
+2022/02/26 07:50:07,018 INFO  - *********
+2022/02/26 07:50:07,018 INFO  - *******************
+2022/02/26 07:50:36,920 INFO  - CameraId 1
+2022/02/26 07:50:36,920 INFO  - *******************
+2022/02/26 07:50:36,920 INFO  - *********
+2022/02/26 07:50:36,921 INFO  - *******************
+2022/02/26 07:51:07,128 INFO  - CameraId 1
+2022/02/26 07:51:07,128 INFO  - *******************
+2022/02/26 07:51:07,128 INFO  - *********
+2022/02/26 07:51:07,128 INFO  - *******************
+2022/02/26 07:51:37,067 INFO  - CameraId 1
+2022/02/26 07:51:37,068 INFO  - *******************
+2022/02/26 07:51:37,068 INFO  - *********
+2022/02/26 07:51:37,068 INFO  - *******************
+2022/02/26 07:52:06,984 INFO  - CameraId 1
+2022/02/26 07:52:06,985 INFO  - *******************
+2022/02/26 07:52:06,985 INFO  - *********
+2022/02/26 07:52:06,985 INFO  - *******************
+2022/02/26 07:52:36,933 INFO  - CameraId 1
+2022/02/26 07:52:36,933 INFO  - *******************
+2022/02/26 07:52:36,933 INFO  - *********
+2022/02/26 07:52:36,933 INFO  - *******************
+2022/02/26 07:53:07,042 INFO  - CameraId 1
+2022/02/26 07:53:07,042 INFO  - *******************
+2022/02/26 07:53:07,042 INFO  - *********
+2022/02/26 07:53:07,042 INFO  - *******************
+2022/02/26 07:53:37,040 INFO  - CameraId 1
+2022/02/26 07:53:37,041 INFO  - *******************
+2022/02/26 07:53:37,041 INFO  - *********
+2022/02/26 07:53:37,041 INFO  - *******************
+2022/02/26 07:55:07,155 DEBUG - Server=localhost;Database=ThermalCamera;User Id=sa;Password=123456789;
+2022/02/26 07:55:07,172 DEBUG - Service Started
+2022/02/26 07:55:13,281 INFO  - Leng queue : 1
+2022/02/26 07:55:58,725 INFO  - Leng queue : 1
+2022/02/26 09:18:20,897 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:18:50,892 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:19:20,914 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:19:50,934 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:20:20,959 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:20:50,936 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:21:20,971 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:21:50,965 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:22:20,985 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:22:50,985 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:23:21,025 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:23:51,024 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:24:20,998 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:24:51,033 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:25:21,031 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:25:51,062 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:26:21,067 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:26:51,052 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:27:21,072 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:27:51,091 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:28:21,072 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:28:51,082 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:29:21,116 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:29:51,105 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:30:21,139 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:30:51,138 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:31:21,108 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:31:51,138 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:32:21,169 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:32:51,156 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:33:21,179 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:33:51,191 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:34:21,206 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:34:51,196 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:35:21,207 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:35:51,232 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:36:21,225 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:36:51,250 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:37:21,242 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:37:51,251 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:38:21,273 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:38:51,302 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:39:21,267 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:39:51,285 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:40:21,284 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:40:51,316 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:41:21,347 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:41:51,310 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:42:21,388 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:42:51,357 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:43:21,382 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:43:51,409 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:44:21,411 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:44:51,423 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:45:21,432 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:45:51,418 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:46:21,445 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:46:51,411 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:47:21,439 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:47:51,454 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:48:21,461 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:48:51,467 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:49:21,495 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:49:51,492 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:50:21,510 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:50:51,516 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:51:21,535 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:51:51,549 INFO  - Exception : Unable to connect to the remote server
+2022/02/26 09:52:21,545 INFO  - Exception : Unable to connect to the remote server

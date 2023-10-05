@@ -1,0 +1,24 @@
+﻿<wb:WindowBase x:Class="MonitorService.View.DataConfigView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MonitorService.View"
+         xmlns:wb="clr-namespace:Core.Base;assembly=Core"
+        xmlns:customControl="clr-namespace:Core.CustomControl;assembly=Core"
+        xmlns:vm="clr-namespace:MonitorService.ViewModel"
+        mc:Ignorable="d"
+        Title="DataConfig" Height="450" Width="600" WindowState="Normal" WindowStartupLocation="CenterScreen" WindowStyle="SingleBorderWindow">
+    <wb:WindowBase.DataContext>
+        <vm:DataConfigViewModel/>
+    </wb:WindowBase.DataContext>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="250"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <TreeView/>
+
+        <ContentControl Content="{Binding CurrentItem}" Grid.Column="1"/>
+    </Grid>
+</wb:WindowBase>

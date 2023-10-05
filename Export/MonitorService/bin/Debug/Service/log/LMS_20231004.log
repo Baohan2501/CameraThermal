@@ -1,0 +1,1654 @@
+2023/10/04 17:43:44,670 DEBUG - Server=localhost;Database=ThermalCamera;User Id=sa;Password=123456789;MultipleActiveResultSets = true;
+2023/10/04 17:43:44,684 INFO  - Interval : 3000
+2023/10/04 17:43:44,684 INFO  - Connection : Server=localhost;Database=ThermalCamera;User Id=sa;Password=123456789;MultipleActiveResultSets = true;
+2023/10/04 17:43:44,685 DEBUG - Service Started
+2023/10/04 17:44:02,242 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:03,252 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:04,268 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:05,767 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:44:05,767 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:44:06,199 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:07,216 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:08,373 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:10,494 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:11,507 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:13,134 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:14,146 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:15,620 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:16,636 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:17,649 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:18,662 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:19,676 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:20,692 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:21,709 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:22,724 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:23,588 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:23,740 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:24,599 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:24,753 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:25,617 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:25,766 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:25,851 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:26,629 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:26,773 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:26,796 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:44:26,796 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:44:26,864 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:27,238 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:27,645 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:27,786 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:27,878 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:28,253 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:28,661 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:28,716 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:28,798 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:28,896 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:29,272 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:29,675 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:29,737 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:29,750 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:29,822 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:29,914 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:30,284 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:30,693 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:30,753 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:30,769 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:30,838 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:30,926 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:31,304 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:31,703 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:31,769 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:31,785 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:31,857 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:31,932 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:32,318 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:32,646 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:32,705 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:32,785 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:32,799 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:32,863 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:32,952 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:33,330 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:33,660 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:33,725 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:33,762 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:33,798 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:33,813 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:33,878 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:33,971 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:34,349 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:34,427 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:34,678 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:34,740 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:34,770 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:34,815 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:34,830 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:34,895 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:34,987 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:44:47,825 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:44:47,840 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:45:08,891 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:45:08,891 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:45:18,264 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:20,012 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:20,014 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:20,015 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:20,016 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:20,018 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:20,020 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:20,021 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:20,022 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:20,023 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:21,043 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:21,044 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:21,046 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:21,047 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:21,048 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:21,049 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:21,052 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:21,053 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:21,054 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:21,056 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:22,061 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:22,063 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:22,069 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:22,070 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:22,071 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:22,072 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:22,073 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:22,075 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:22,077 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:22,078 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:23,087 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:23,089 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:23,090 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:23,091 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:23,093 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:23,094 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:23,095 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:23,096 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:23,097 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:23,099 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:24,101 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:24,103 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:24,104 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:24,106 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:24,107 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:24,108 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:24,108 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:24,110 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:24,111 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:24,113 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:25,124 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:25,127 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:25,128 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:25,130 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:25,131 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:25,132 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:25,133 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:25,134 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:25,135 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:25,136 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:26,148 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:26,151 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:26,151 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:26,152 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:26,153 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:26,154 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:26,155 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:26,156 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:26,157 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:26,158 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:27,156 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:27,157 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:27,158 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:27,160 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:27,161 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:27,162 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:27,174 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:27,175 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:27,176 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:27,176 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:28,175 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:28,177 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:28,180 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:28,180 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:28,182 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:28,182 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:28,190 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:28,192 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:28,193 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:28,193 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:29,190 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:29,192 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:29,193 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:29,194 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:29,195 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:29,196 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:29,207 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:29,208 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:29,209 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:29,210 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:29,931 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:45:29,931 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:45:30,206 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:30,207 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:30,208 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:30,210 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:30,211 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:30,212 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:30,224 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:30,225 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:30,226 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:30,227 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:31,223 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:31,226 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:31,228 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:31,229 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:31,230 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:31,231 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:31,241 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:31,243 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:31,244 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:31,245 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:32,240 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:32,241 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:32,243 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:32,244 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:32,245 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:32,247 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:32,253 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:32,254 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:32,255 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:32,255 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:33,253 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:33,254 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:33,256 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:33,257 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:33,258 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:33,259 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:33,267 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:33,268 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:33,269 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:33,270 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:34,273 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:34,275 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:34,276 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:34,278 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:34,279 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:34,280 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:34,282 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:34,283 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:34,284 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:34,286 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:35,294 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:35,296 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:35,299 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:35,300 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:35,301 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:35,302 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:35,303 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:35,303 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:35,305 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:35,306 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:36,301 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:36,316 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:36,318 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:36,319 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:36,322 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:36,323 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:36,324 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:36,324 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:36,325 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:36,326 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:37,319 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:37,335 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:37,337 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:37,338 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:37,339 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:37,340 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:37,341 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:37,343 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:37,344 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:37,345 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:38,330 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:38,352 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:38,354 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:38,355 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:38,356 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:38,356 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:38,358 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:38,359 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:38,360 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:38,360 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:39,341 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:39,364 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:39,367 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:39,368 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:39,369 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:39,371 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:39,371 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:39,373 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:39,377 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:39,378 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:40,361 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:40,379 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:40,381 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:40,382 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:40,383 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:40,385 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:40,386 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:40,387 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:40,392 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:40,393 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:41,375 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:41,393 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:41,393 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:41,395 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:41,396 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:41,396 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:41,397 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:41,397 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:41,408 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:41,409 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:42,383 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:42,396 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:42,409 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:42,410 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:42,412 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:42,414 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:42,415 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:42,415 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:42,426 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:42,427 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:43,401 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:43,409 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:43,428 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:43,431 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:43,432 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:43,433 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:43,434 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:43,436 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:43,442 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:43,443 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:44,414 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:44,414 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:44,438 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:44,438 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:44,439 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:44,440 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:44,440 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:44,456 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:44,456 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:44,457 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:45,428 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:45,430 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:45,454 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:45,456 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:45,457 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:45,459 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:45,460 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:45,469 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:45,471 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:45,472 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:45:50,974 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:45:50,974 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:46:12,015 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:46:12,015 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:46:33,059 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:46:33,059 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:46:54,097 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:46:54,110 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:47:15,126 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:47:15,142 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:47:36,165 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:47:36,196 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:47:57,210 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:48:18,245 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:48:18,260 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:48:39,289 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:48:51,054 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:48:52,955 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:48:54,841 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:48:56,378 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:49:00,311 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:49:00,311 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:49:04,220 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 17:49:21,346 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:49:21,346 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:49:42,379 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:49:42,379 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:50:03,417 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:50:03,417 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:50:24,472 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:50:24,472 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:50:45,504 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:50:45,504 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:51:06,534 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:51:06,534 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:51:27,570 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:51:48,596 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:51:48,596 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:52:09,636 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:52:09,636 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:52:30,681 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:52:30,681 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:52:51,720 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:52:51,736 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:53:12,758 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:53:12,773 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:53:33,802 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:53:33,818 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:53:54,827 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:54:15,874 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:54:15,888 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:54:36,937 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:54:57,960 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:54:57,960 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:55:18,991 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:55:18,991 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:55:40,046 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:55:40,046 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:56:01,109 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:56:01,109 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:56:22,134 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:56:22,135 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:56:43,180 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:56:43,180 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:57:04,214 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:57:04,214 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:57:25,244 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:57:46,281 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:58:07,324 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:58:07,325 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:58:28,372 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:58:28,372 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:58:49,416 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:58:49,417 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:59:10,444 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:59:10,444 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:59:31,476 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:59:31,476 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:59:52,521 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 17:59:52,521 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:00:13,565 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:00:13,565 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:00:34,603 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:00:55,635 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:01:16,677 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:01:16,706 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:01:37,756 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:01:58,733 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:02:19,775 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:02:19,822 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:02:40,866 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:03:01,678 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:03:01,845 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:03:11,684 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:03:21,690 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:03:22,900 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:03:22,962 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:03:31,707 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:03:41,725 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:03:43,998 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:03:51,742 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:04:01,747 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:04:04,983 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:04:11,752 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:04:21,759 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:04:26,009 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:04:26,070 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:04:31,771 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:04:41,778 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:04:47,103 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:04:51,784 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:05:01,790 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:05:08,110 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:05:11,810 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:05:21,814 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:05:29,144 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:05:29,193 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:05:31,819 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:05:41,834 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:05:50,222 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:05:51,853 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:06:04,407 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:06:11,211 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:06:32,270 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:06:32,319 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:06:53,356 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:07:14,379 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:07:35,417 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:07:35,455 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:07:56,491 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:08:17,482 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:08:38,525 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:08:38,571 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:08:59,597 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:09:20,606 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:09:23,913 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:09:41,643 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:09:41,675 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:10:02,738 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:10:23,748 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:10:44,786 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:10:44,833 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:11:05,867 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:11:26,879 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:14:14,748 DEBUG - Server=localhost;Database=ThermalCamera;User Id=sa;Password=123456789;MultipleActiveResultSets = true;
+2023/10/04 18:14:14,758 INFO  - Interval : 3000
+2023/10/04 18:14:14,758 INFO  - Connection : Server=localhost;Database=ThermalCamera;User Id=sa;Password=123456789;MultipleActiveResultSets = true;
+2023/10/04 18:14:14,758 DEBUG - Service Started
+2023/10/04 18:14:35,828 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:14:35,828 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:14:40,736 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:14:44,082 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:14:45,999 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:14:47,435 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:14:48,187 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:14:48,836 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:14:48,840 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:14:49,416 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:14:50,022 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:14:50,519 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:14:50,764 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:14:51,155 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:14:51,856 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:14:52,857 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:14:54,088 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:14:56,005 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:14:56,850 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:14:56,850 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:14:57,443 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:14:58,192 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:14:58,850 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:14:58,853 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:14:59,432 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:15:00,036 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:15:00,540 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:15:00,773 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:15:01,158 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:15:01,863 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:15:02,868 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:15:04,106 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:15:06,012 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:15:07,450 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:15:08,200 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:15:08,865 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:15:08,867 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:15:09,453 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:15:10,044 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:15:10,550 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:15:10,789 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:15:11,163 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:15:11,880 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:15:12,885 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:15:14,117 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:15:16,017 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:15:17,460 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:15:17,888 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:15:17,889 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:15:18,207 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:15:18,880 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:15:18,881 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:15:19,473 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:15:20,051 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:15:20,568 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:15:20,801 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:15:21,182 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:15:38,906 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:15:38,906 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:15:59,938 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:15:59,954 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:16:20,971 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:16:41,997 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:16:42,028 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:17:03,085 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:17:24,081 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:17:45,130 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:17:45,174 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:18:06,220 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:18:27,212 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:18:48,252 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:18:48,301 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:19:09,341 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:19:30,342 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:19:51,379 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:19:51,425 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:20:12,467 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:20:33,434 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:20:54,497 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:20:54,573 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:21:15,624 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:21:36,572 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:21:57,607 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:21:57,685 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:22:18,727 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:22:39,701 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:23:00,735 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:23:00,797 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:23:21,843 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:23:42,825 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:24:03,866 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:24:03,927 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:24:24,973 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:24:45,948 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:25:06,987 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:25:07,049 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:25:28,098 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:25:49,076 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:26:10,109 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:26:10,171 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:26:31,217 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:26:52,197 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:27:13,231 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:27:13,279 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:27:34,338 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:27:55,302 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:28:16,322 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:28:16,384 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:28:37,426 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:28:58,405 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:29:19,426 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:29:19,503 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:29:40,533 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:30:01,476 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:30:22,510 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:30:22,589 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:30:43,632 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:31:04,594 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:31:25,618 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:31:25,695 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:31:46,732 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:32:07,708 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:32:28,736 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:32:28,796 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:32:49,856 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:33:10,818 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:33:31,866 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:33:31,944 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:33:52,993 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:34:13,959 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:34:35,010 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:34:35,100 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:34:56,145 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:35:17,080 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:35:38,118 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:35:38,213 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:36:17,635 DEBUG - Server=localhost;Database=ThermalCamera;User Id=sa;Password=123456789;MultipleActiveResultSets = true;
+2023/10/04 18:36:17,645 INFO  - Interval : 3000
+2023/10/04 18:36:17,645 INFO  - Connection : Server=localhost;Database=ThermalCamera;User Id=sa;Password=123456789;MultipleActiveResultSets = true;
+2023/10/04 18:36:17,646 DEBUG - Service Started
+2023/10/04 18:36:24,989 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:36:34,997 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:36:38,721 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:36:41,720 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:36:45,006 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 18:36:59,771 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:37:02,768 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:37:20,805 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:37:23,808 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:37:41,846 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:37:44,838 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:38:02,880 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:38:05,872 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:38:23,922 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:38:44,954 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:38:47,937 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:39:08,972 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:39:27,049 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:39:48,078 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:39:51,067 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:40:12,129 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:40:30,157 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:40:51,211 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:40:54,188 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:41:15,216 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:41:33,272 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:41:54,322 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:41:57,284 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:42:18,311 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:42:36,401 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:42:57,446 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:43:00,403 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:43:21,424 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:43:39,504 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:44:00,532 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:44:03,526 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:44:24,572 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:44:42,628 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:45:03,682 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:45:06,652 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:45:27,704 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:45:45,756 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:46:06,806 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:46:09,799 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:46:30,830 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:46:48,876 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:47:09,905 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:47:12,907 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:47:33,945 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:47:51,983 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:48:13,021 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:48:16,007 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:48:37,055 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:48:55,098 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:49:16,144 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:49:19,147 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:49:40,179 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:49:58,218 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:50:19,256 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:50:22,244 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:50:43,282 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:51:01,312 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:51:22,349 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:51:25,341 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:51:46,368 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:52:04,439 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:52:25,467 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:52:28,437 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:52:49,473 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:53:07,542 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:53:28,595 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:53:31,538 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:53:52,580 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:54:10,703 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:54:31,737 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:54:34,648 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:54:55,686 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:55:13,816 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:55:34,858 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:55:37,758 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:55:58,799 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:56:16,942 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:56:37,979 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:56:40,888 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:57:01,948 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:57:20,049 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:57:41,081 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:57:44,047 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:58:05,079 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:58:23,159 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:58:44,209 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:58:47,160 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:59:08,210 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:59:26,302 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:59:47,342 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 18:59:50,278 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:00:11,327 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:00:29,427 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:00:50,459 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:00:53,403 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:01:14,430 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:01:32,536 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:01:53,563 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:01:56,514 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:02:17,538 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:02:35,640 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:02:56,673 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:02:59,637 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:03:20,689 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:03:38,779 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:03:59,821 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:04:02,752 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:04:23,805 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:04:41,867 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:05:02,905 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:05:05,898 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:05:26,930 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:05:45,001 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:06:06,045 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:06:08,990 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:06:30,019 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:06:48,134 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:07:09,153 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:07:12,089 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:13,996 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:13,997 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:13,997 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:13,997 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:13,997 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:13,997 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:13,998 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:13,998 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,019 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,019 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,019 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,020 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,020 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,020 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,020 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,020 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,020 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,020 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,020 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,020 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,020 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,020 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,021 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,021 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,021 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,021 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,021 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,021 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,021 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,021 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,021 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,022 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,022 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,022 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,022 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,022 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,022 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,022 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,022 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,022 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,022 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,023 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,023 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,023 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,023 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,023 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,023 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,023 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,023 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,023 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,023 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,024 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,024 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,024 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,024 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,024 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,024 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,024 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,024 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,024 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,025 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,025 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,025 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,025 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,025 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,025 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,026 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,026 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,026 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,026 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,026 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,026 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,026 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,026 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,026 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,026 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,027 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,027 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,027 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,027 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,027 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,027 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,027 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,027 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,027 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,027 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,026 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,028 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,027 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,028 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,028 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,028 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,028 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,028 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,028 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,028 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,028 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,029 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,029 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,029 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,029 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,028 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,029 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,029 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,030 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,037 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,037 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,009 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,038 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,008 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,038 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,008 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,038 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,038 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,038 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,038 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,007 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,038 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,037 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,028 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:14:14,038 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:26:17,600 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:26:42,762 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:27:03,801 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:27:20,342 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:27:41,385 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:27:45,867 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:28:06,920 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:28:23,485 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:28:44,512 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:28:48,997 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:29:10,040 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:29:26,563 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:29:47,602 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:29:52,118 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:30:13,165 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:30:29,670 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:30:50,700 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:30:55,259 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:31:16,286 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:31:32,778 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:31:53,830 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:31:58,349 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:32:19,396 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:32:35,907 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:32:56,955 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:33:01,475 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:33:22,513 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:33:39,031 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:34:00,078 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:34:04,597 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:34:25,623 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:34:42,169 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:35:03,211 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:35:07,701 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:35:28,736 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:35:45,279 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:36:06,330 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:36:10,830 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:36:31,885 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:36:48,407 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:37:09,454 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:37:13,971 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:37:35,010 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:37:51,557 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:38:12,607 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:38:17,095 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:38:38,132 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:38:54,689 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:39:15,736 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:39:20,226 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:39:41,269 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:39:57,819 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:40:18,879 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:40:23,367 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:40:44,410 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:41:00,959 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:41:21,985 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:41:26,444 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:41:39,369 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 19:41:47,470 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:42:04,046 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:42:25,076 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:42:29,538 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:42:50,559 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:43:07,145 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:43:28,191 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:43:32,648 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:43:53,700 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:44:10,274 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:44:31,316 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:44:35,810 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:44:56,843 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:45:13,383 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:45:34,419 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:45:38,911 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:45:59,937 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:46:16,497 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:46:37,523 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:46:42,028 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:47:03,067 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:47:19,601 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:47:40,640 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:47:45,154 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:48:06,192 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:48:22,717 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:48:43,775 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:48:48,260 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:49:09,288 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:49:25,849 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:49:46,888 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:49:51,382 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:50:12,428 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:50:28,958 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:50:49,989 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:50:54,525 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:51:15,567 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:51:32,111 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:51:53,172 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:51:57,635 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:52:18,668 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:52:35,261 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:52:56,306 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:53:00,740 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:53:21,785 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:53:38,397 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:53:59,449 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:54:03,856 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:54:24,888 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:54:41,534 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:55:02,561 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:55:06,970 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:55:27,996 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:55:44,648 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:56:05,691 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:56:10,078 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:56:31,106 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:56:47,791 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:57:08,823 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:57:13,167 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:57:34,208 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:57:50,885 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:58:11,908 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:58:16,290 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:58:37,324 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:58:53,980 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:59:15,022 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:59:19,383 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:59:40,441 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 19:59:57,103 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:00:18,136 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:00:22,527 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:00:43,563 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:01:00,238 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:01:21,270 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:01:25,642 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:01:46,676 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:02:03,356 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:02:24,397 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:02:28,770 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:02:49,802 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:03:06,477 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:03:27,508 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:03:31,894 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:03:52,954 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:04:09,598 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:04:30,640 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:04:35,039 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:04:56,095 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:05:12,715 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:05:33,756 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:05:38,183 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:05:59,227 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:06:15,834 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:06:36,866 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:06:41,316 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:07:02,396 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:07:18,932 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:07:39,979 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:07:44,479 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:08:05,508 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:08:22,069 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:08:43,101 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:08:47,600 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:09:08,623 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:09:25,188 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:09:46,216 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:09:50,705 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:10:11,740 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:10:28,294 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:10:49,333 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:10:53,810 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:11:14,848 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:11:31,408 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:11:52,453 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:11:56,937 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:12:17,977 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:12:34,533 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:12:55,583 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:13:00,032 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:13:21,099 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:13:37,690 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:13:58,725 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:14:03,171 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:14:24,211 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:14:40,803 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:15:01,830 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:15:06,288 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:15:27,315 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:15:43,914 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:16:04,949 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:16:09,403 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:16:30,443 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:16:47,018 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:17:08,072 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:17:12,533 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:17:33,583 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:17:50,119 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:18:11,165 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:18:15,675 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:18:36,710 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:18:53,226 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:19:14,260 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:19:18,784 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:19:39,828 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:19:56,350 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:20:17,394 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:20:21,898 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:20:42,958 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:20:59,457 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:21:20,511 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:21:25,016 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:21:46,052 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:22:02,561 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:22:23,602 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:22:28,140 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:22:49,190 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:23:05,661 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:23:26,709 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:23:31,266 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:23:52,309 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:24:08,775 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:24:29,820 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:24:34,395 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:24:55,417 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:25:11,907 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:25:32,950 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:25:37,484 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:25:58,511 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:26:15,016 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:26:36,062 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:26:40,612 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:27:01,639 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:27:18,139 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:27:39,192 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:27:43,708 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:28:04,754 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:28:21,270 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:28:42,326 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:28:46,830 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:29:07,891 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:29:24,392 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:29:45,424 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:29:50,009 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:30:11,057 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:30:27,500 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:30:48,547 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:30:53,135 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:31:14,181 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:31:30,625 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:31:51,666 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:31:56,273 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:32:17,318 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:32:33,756 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:32:54,808 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:32:59,411 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:33:20,452 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:33:36,909 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:33:57,939 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:34:02,518 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:34:23,568 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:34:40,006 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:35:01,029 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:35:05,640 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:35:26,673 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:35:43,122 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:36:04,173 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:36:08,751 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:36:29,794 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:36:46,259 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:37:07,313 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:37:11,873 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:37:32,891 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:37:49,400 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:38:10,432 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:38:14,984 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:38:36,031 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:38:52,491 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:39:13,546 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:39:18,099 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:39:39,148 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:39:55,619 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:40:16,636 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:40:21,231 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:40:42,277 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:40:58,739 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:41:19,770 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:41:24,362 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:41:45,395 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:42:01,857 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:42:22,895 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:42:27,474 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:42:48,520 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:43:04,972 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:43:26,008 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:43:30,582 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:43:51,613 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:44:08,070 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:44:29,106 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:44:33,698 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:44:54,744 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:45:11,172 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:45:32,218 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:45:36,791 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:45:57,824 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:46:14,289 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:46:35,323 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:46:39,897 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:47:00,944 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:47:17,405 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:47:38,431 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:47:43,025 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:48:04,056 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:48:20,550 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:48:41,594 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:48:46,134 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:49:07,178 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:49:23,685 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:49:44,730 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:49:49,236 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:50:10,273 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:50:26,788 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:50:47,835 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:50:52,345 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:51:13,401 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:51:29,918 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:51:50,958 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:51:55,498 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:52:16,542 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:52:33,058 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:52:54,097 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:52:58,622 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:53:19,654 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:53:36,181 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:53:57,228 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:54:01,752 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:54:22,780 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:54:39,337 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:55:00,395 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:55:04,870 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:55:25,895 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:55:42,478 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:56:03,516 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:56:07,972 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:56:28,997 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:56:45,578 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:57:06,613 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:57:11,081 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:57:32,121 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:57:48,695 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:58:09,717 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:58:14,188 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:58:35,231 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:58:51,794 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:59:12,844 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:59:17,309 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:59:38,339 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 20:59:54,916 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:00:15,977 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:00:20,435 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:00:41,475 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:00:58,072 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:01:19,117 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:01:23,562 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:01:44,614 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:02:01,203 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:02:22,254 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:02:26,722 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:02:47,756 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:03:04,335 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:03:25,376 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:03:29,822 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:03:50,848 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:04:07,498 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:04:28,526 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:04:32,933 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:04:53,967 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:05:10,614 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:05:31,652 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:05:36,035 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:05:57,066 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:06:13,763 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:06:34,795 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:06:39,140 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:07:00,202 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:07:16,902 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:07:37,941 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:07:42,299 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:08:03,342 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:08:20,017 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:08:41,076 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:08:45,432 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:09:06,474 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:09:23,170 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:09:44,216 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:09:48,560 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:10:09,608 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:10:26,285 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:10:47,316 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:10:51,688 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:11:12,733 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:11:29,430 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:11:50,462 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:11:54,808 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:12:15,853 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:12:32,538 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:12:53,599 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:12:57,928 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:13:18,981 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:13:35,666 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:13:56,692 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:14:01,069 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:14:22,104 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:14:38,745 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:14:59,794 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:15:04,172 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:15:25,188 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:15:41,883 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:16:02,913 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:16:07,271 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:16:28,314 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:16:44,992 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:17:06,041 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:17:10,378 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:17:31,424 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:17:48,103 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:18:09,146 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:18:13,493 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:18:34,543 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:18:51,219 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:19:12,271 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:19:16,632 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:19:37,653 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:19:54,354 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:20:15,383 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:20:19,744 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:20:40,778 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:20:57,460 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:21:18,499 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:21:22,837 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:21:43,880 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:22:00,579 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:22:21,607 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:22:25,943 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:22:46,982 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:23:03,671 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:23:24,714 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:23:29,059 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:23:50,095 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:24:06,787 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:24:27,807 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:24:32,157 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:24:53,195 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:25:09,914 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:25:30,935 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:25:35,287 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:25:56,341 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:26:13,031 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:26:34,077 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:26:38,392 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:26:59,433 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:27:16,173 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:27:37,205 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:27:41,506 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:28:02,552 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:28:19,281 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:28:40,320 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:28:44,647 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:29:05,684 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:29:22,406 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:29:43,450 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:29:47,771 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:30:08,832 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:30:25,538 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:30:46,571 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:30:50,903 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:31:11,951 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:31:28,635 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:31:49,679 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:31:54,034 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:32:15,071 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:32:31,749 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:32:52,793 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:32:57,176 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:33:18,209 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:33:34,865 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:33:55,914 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:34:00,331 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:34:21,363 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:34:37,998 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:34:59,048 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:35:03,435 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:35:24,491 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:35:41,128 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:36:02,162 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:36:06,603 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:36:27,653 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:36:44,247 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:37:05,275 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:37:09,739 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:37:30,785 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:37:47,338 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:38:08,365 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:38:12,855 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:38:33,892 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:38:50,436 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:39:11,495 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:39:15,972 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:39:37,019 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:39:53,590 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:40:14,622 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:40:19,103 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:40:40,145 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:40:56,742 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:41:17,763 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:41:22,225 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:41:43,251 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:41:59,859 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:42:20,904 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:42:25,318 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:42:46,360 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:43:03,007 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:43:24,044 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:43:28,452 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:43:49,490 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:44:06,129 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:44:27,173 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:44:31,568 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:44:52,607 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:45:09,267 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:45:30,315 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:45:34,677 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:45:55,710 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:46:12,398 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:46:33,448 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:46:37,795 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:46:58,817 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:47:15,498 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:47:36,537 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:47:40,906 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:48:01,963 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:48:18,631 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:48:39,671 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:48:44,014 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:49:05,071 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:49:21,731 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:49:42,770 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:49:47,170 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:50:08,197 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:50:24,840 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:50:45,883 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:50:50,247 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:51:11,285 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:51:27,958 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:51:49,005 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:51:53,379 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:52:14,419 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:52:31,075 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:52:52,118 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:52:56,476 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:53:17,500 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:53:34,175 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:53:55,215 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:53:59,573 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:54:20,610 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:54:37,292 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:54:58,338 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:55:02,695 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:55:23,752 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:55:40,386 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:56:01,434 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:56:05,822 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:56:26,873 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:56:43,517 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:57:04,556 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:57:08,959 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:57:29,980 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:57:46,641 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:58:07,683 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:58:12,069 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:58:33,111 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:58:49,777 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:59:10,822 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:59:15,184 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:59:36,220 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 21:59:52,883 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:00:13,935 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:00:18,299 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:00:39,367 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:00:56,004 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:01:17,047 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:01:21,456 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:01:42,495 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:01:59,143 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:02:20,176 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:02:24,576 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:02:45,612 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:03:02,252 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:03:23,280 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:03:27,668 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:03:48,706 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:04:05,380 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:04:26,392 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:04:30,776 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:04:51,812 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:05:08,479 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:05:29,499 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:05:33,887 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:05:54,909 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:06:11,569 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:06:32,625 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:06:36,962 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:06:58,002 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:07:14,714 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:07:35,750 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:07:40,079 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:08:01,115 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:08:17,848 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:08:38,873 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:08:43,190 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:09:04,222 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:09:20,943 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:09:41,968 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:09:46,308 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:10:07,329 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:10:24,042 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:10:45,068 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:10:49,389 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:11:10,429 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:11:27,143 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:11:48,184 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:11:52,488 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:12:13,524 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:12:30,271 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:12:51,316 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:12:55,583 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:13:16,631 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:13:33,417 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:13:54,451 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:13:58,716 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:14:19,743 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:14:36,518 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:14:57,557 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:15:01,835 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:15:22,886 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:15:39,637 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:16:00,667 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:16:04,973 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:16:26,021 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:16:42,762 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:17:03,807 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:17:08,098 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:17:29,134 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:17:45,905 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:18:06,933 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:18:11,206 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:18:32,250 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:18:49,018 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:19:10,056 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:19:14,313 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:19:35,359 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:19:52,110 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:20:13,148 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:20:17,438 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:20:38,495 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:20:55,232 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:21:16,283 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:21:20,595 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:21:41,631 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:21:58,387 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:22:19,427 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:22:23,702 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:22:44,720 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:23:01,490 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:23:22,534 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:23:26,791 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:23:47,821 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:24:04,587 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:24:25,634 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:24:29,905 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:24:50,934 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:25:07,702 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:25:28,762 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:25:33,021 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:25:54,072 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:26:10,848 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:26:31,891 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:26:36,153 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:26:57,186 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:27:13,981 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:27:35,049 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:27:39,244 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:28:00,287 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:28:17,139 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:28:38,202 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:28:42,377 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:29:03,435 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:29:20,284 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:29:41,313 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:29:45,503 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:30:06,537 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:30:23,411 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:30:44,453 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:30:48,613 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:31:09,667 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:31:26,513 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:31:47,566 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:31:51,743 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:32:12,792 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:32:29,662 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:32:50,710 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:32:54,876 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:33:15,900 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:33:32,783 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:33:53,831 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:33:57,991 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:34:19,009 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:34:35,914 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:34:56,959 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:35:01,086 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:35:22,125 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:35:39,038 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:36:00,085 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:36:04,193 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:36:25,240 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:36:42,186 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:37:03,231 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:37:07,296 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:37:28,329 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:37:45,313 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:38:06,344 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:38:10,401 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:38:31,452 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:38:48,412 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:39:09,456 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:39:13,538 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:39:34,571 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:39:51,528 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:40:12,576 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:40:16,635 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:40:37,665 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:40:54,656 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:41:15,709 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:41:19,741 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:41:40,772 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:41:42,148 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 22:41:57,778 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:42:15,726 ERROR - Live view: Object reference not set to an instance of an object.
+2023/10/04 22:42:18,812 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:42:22,858 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:42:43,896 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:43:00,916 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:43:21,951 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:43:25,980 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:43:46,995 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:44:04,029 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:44:25,069 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:44:29,060 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:44:50,097 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:45:07,153 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:45:28,188 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:45:32,200 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:45:53,256 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:46:10,281 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:46:31,310 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:46:35,353 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:46:56,400 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:47:13,418 INFO  - Exception GetDataByCamera : Unable to connect to the remote server
+2023/10/04 22:47:34,438 INFO  - Exception GetDataByCamera : Unable to connect to the remote server

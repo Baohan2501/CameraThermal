@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ArrayOfCamera xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SiteCameras>
+    <SiteCamera>
+      <SiteName>Site A</SiteName>
+      <CameraZones>
+        <CameraZone>
+          <CameraId>1</CameraId>
+          <CameraName>PoC Camera</CameraName>
+          <IPAddress>192.168.1.60</IPAddress>
+          <User>root</User>
+          <Password>root</Password>
+          <Zones>
+            <AlarmZoneSetting>
+              <ZoneId>0</ZoneId>
+              <ZoneName>Zone1</ZoneName>
+              <MaxAlarmTemperature>19</MaxAlarmTemperature>
+            </AlarmZoneSetting>
+          </Zones>
+        </CameraZone>
+      </CameraZones>
+    </SiteCamera>
+  </SiteCameras>
+  
+  <!-- config sql-->
+  <Server>localhost</Server>
+  <DBName>ThermalCamera</DBName>
+  <User>sa</User>
+  <Password>123456789</Password>
+  <!--setting interval to get data from camera (minisecond)-->
+  <Interval>3000</Interval>
+  
+  
+</ArrayOfCamera>

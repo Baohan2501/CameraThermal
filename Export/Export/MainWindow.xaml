@@ -1,0 +1,176 @@
+﻿<wb:WindowBase x:Class="Export.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:wb="clr-namespace:Core.Base;assembly=Core"
+        xmlns:mahAppControl="http://metro.mahapps.com/winfx/xaml/controls"
+        xmlns:vm="clr-namespace:Export.ViewModel"
+        xmlns:converter="clr-namespace:Export.Converter"
+        xmlns:bh="clr-namespace:Core.Behavior;assembly=Core"
+        xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity"
+        xmlns:view="clr-namespace:Export.View"
+        xmlns:local="clr-namespace:Export"
+        mc:Ignorable="d"
+        Title="{Binding MainTitle}" Height="450" Width="800" WindowStartupLocation="CenterScreen" WindowState="Maximized" Name="_this" TitleCharacterCasing="Normal">
+    <wb:WindowBase.DataContext>
+        <vm:MainWindowViewModel/>
+    </wb:WindowBase.DataContext>
+    <wb:WindowBase.Resources>
+        <converter:BooleanToVisibilityConverter x:Key="BooleanToVisibilityConverter"/>
+        <converter:ModeToVisibilityConverter x:Key="ModeToVisibilityConverter"/>
+        <DataTemplate DataType="{x:Type vm:LiveViewModel}">
+            <view:LiveView/>
+        </DataTemplate>
+
+        <DataTemplate DataType="{x:Type vm:SearchViewModel}">
+            <view:SearchView/>
+        </DataTemplate>
+
+        <DataTemplate x:Key="textblock">
+            <TextBlock Text="{Binding CameraName}" />
+        </DataTemplate>
+
+        <DataTemplate x:Key="checkbox">
+            <CheckBox Content="{Binding CameraName}" IsChecked="{Binding IsSelected}"/>
+        </DataTemplate>
+
+        <DataTemplate x:Key="cameraTemplate">
+            <ContentPresenter x:Name="PeoplePresenter"
+                          Content="{Binding RelativeSource={RelativeSource TemplatedParent}, Path=Content}"
+                          ContentTemplate="{StaticResource textblock}"/>
+            <DataTemplate.Triggers>
+                <DataTrigger Binding="{Binding ElementName=_this,Path=DataContext.IsLiveAlarm,UpdateSourceTrigger=PropertyChanged}" Value="true">
+                    <Setter TargetName="PeoplePresenter"
+                        Property="ContentTemplate"
+                        Value="{StaticResource checkbox}"/>
+                </DataTrigger>
+            </DataTemplate.Triggers>
+        </DataTemplate>
+        
+        <HierarchicalDataTemplate x:Key="siteTemplate" ItemsSource="{Binding CameraZones}" ItemTemplate="{StaticResource cameraTemplate}">
+            <TextBlock Text="{Binding SiteName}"/>
+        </HierarchicalDataTemplate>
+    </wb:WindowBase.Resources>
+    <Grid>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="290"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="35"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="45"/>
+            </Grid.RowDefinitions>
+            <DockPanel Grid.ColumnSpan="2">
+                <ToolBarTray DockPanel.Dock="Top">
+                    <ToolBar>
+                        <Button Width="130" Command="{Binding LiveCommand}">
+                            <Button.Style>
+                                <Style TargetType="Button">
+                                    <Setter Property="Background" Value="Transparent"/>
+                                    <Style.Triggers>
+                                        <DataTrigger Binding="{Binding CurrentMode}" Value="{x:Static vm:Mode.Live}">
+                                            <Setter Property="Background" Value="#576573"/>
+                                        </DataTrigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </Button.Style>
+                            <StackPanel Orientation="Horizontal">
+                                <Image Source="Image/growth.png" Height="20"/>
+                                <TextBlock Text="Live Alarn" Margin="5,5,0,0" FontWeight="Black" Foreground="Orange"/>
+                            </StackPanel>
+                        </Button>
+                        <Button Width="100" Command="{Binding HistoryCommand}">
+                            <Button.Style>
+                                <Style TargetType="Button">
+                                    <Setter Property="Background" Value="Transparent"/>
+                                    <Style.Triggers>
+                                        <DataTrigger Binding="{Binding CurrentMode}" Value="{x:Static vm:Mode.Search}">
+                                            <Setter Property="Background" Value="#576573"/>
+                                        </DataTrigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </Button.Style>
+                            <StackPanel Orientation="Horizontal">
+                                <Image Source="Image/history.png" Height="20"/>
+                                <TextBlock Text="History" FontWeight="Black" Margin="5,5,0,0" Foreground="Orange"/>
+                            </StackPanel>
+
+                        </Button>
+                    </ToolBar>
+                </ToolBarTray>
+                <TextBox AcceptsReturn="True" />
+            </DockPanel>
+            <Grid Grid.Row="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <StackPanel Margin="5" Visibility="{Binding CurrentMode, Converter={StaticResource ModeToVisibilityConverter}}" Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Center">
+                    <TextBlock Text="Start Date" Width="80" />
+                    <mahAppControl:DateTimePicker Width="200" SelectedDate="{Binding StartDate,StringFormat=MM/dd/yyyy HH:mm:ss}" 
+                    SelectedTimeFormat="Long" SelectedDateFormat="Short"   DisplayDateStart="1/1/2010" DisplayDateEnd="12/31/2050"/>
+                </StackPanel>
+
+                <StackPanel Margin="5" Grid.Row="1" Visibility="{Binding CurrentMode, Converter={StaticResource ModeToVisibilityConverter}}" Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Center">
+                    <TextBlock Text="End Date"  Width="80" />
+                    <mahAppControl:DateTimePicker Width="200" SelectedDate="{Binding EndDate}" DisplayDateStart="1/1/2010" DisplayDateEnd="12/31/2050"/>
+                </StackPanel>
+                <CheckBox  Grid.Row="2" Content="Live alarm" IsChecked="{Binding IsLiveAlarm}" Visibility="{Binding CurrentMode, Converter={StaticResource ModeToVisibilityConverter}}" HorizontalAlignment="Left" Margin="85,5,0,5"/>
+                <GroupBox Grid.Row="3" Margin="5" Header="Option">
+                    <GroupBox.Style>
+                        <Style TargetType="GroupBox" BasedOn="{StaticResource MetroGroupBox}">
+                            <Setter Property="Visibility" Value="Visible"/>
+                            <Setter Property="mahAppControl:ControlsHelper.ContentCharacterCasing" Value="Normal"/>
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding CurrentMode}" Value="{x:Static vm:Mode.Live}">
+                                    <Setter Property="Visibility" Value="Collapsed"/>
+                                </DataTrigger>
+                                <DataTrigger Binding="{Binding IsLiveAlarm}" Value="true">
+                                    <Setter Property="Visibility" Value="Collapsed"/>
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
+                    </GroupBox.Style>
+                    <WrapPanel>
+                        <RadioButton Content="By minutes" IsChecked="{Binding IsMinute}" Margin="5"></RadioButton>
+                        <RadioButton Content="By hours" IsChecked="{Binding IsHours}" Margin="5"></RadioButton>
+                        <RadioButton Content="By days" IsChecked="{Binding IsDay}" Margin="5"></RadioButton>
+                    </WrapPanel>
+                </GroupBox>
+                <GroupBox Header="Camera list" Grid.Row="4" Margin="5,0,5,0" mahAppControl:ControlsHelper.ContentCharacterCasing="Normal">
+                    <TreeView ItemTemplate="{StaticResource siteTemplate}" ItemsSource="{Binding SiteCameras}">
+                        <i:Interaction.Behaviors>
+                            <bh:BindableSelectedItemBehavior ExpandSelected="True"
+                                             SelectedItem="{Binding SelectedTree, Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}"/>
+                        </i:Interaction.Behaviors>
+                        <TreeView.ItemContainerStyle>
+                            <Style TargetType="TreeViewItem" BasedOn="{StaticResource MetroTreeViewItem}">
+                                <Setter Property="IsExpanded" Value="True" />
+                            </Style>
+                        </TreeView.ItemContainerStyle>
+                    </TreeView>
+                </GroupBox>
+            </Grid>
+            <ContentControl Grid.Column="1" Content="{Binding CurrentItem}" Grid.Row="1" />
+
+            <Button Visibility="{Binding CurrentMode, Converter={StaticResource ModeToVisibilityConverter}}" Grid.Row="2" Margin="5,0,5,5" Height="30" Width="100" Content="Search" HorizontalAlignment="Right" Command="{Binding SearchCommand}" Style="{StaticResource customButton}" />
+
+            <Button Visibility="Collapsed" Grid.Row="1" Margin="5,0,5,5" Grid.Column="1" Height="30" Width="100" Content="Export" HorizontalAlignment="Right" Command="{Binding ExportCommand}"/>
+
+
+        </Grid>
+        <Grid Background="Silver" Opacity="0.4"  Visibility="{Binding IsLoading, Converter={StaticResource BooleanToVisibilityConverter}}" />
+        <Border Visibility="{Binding IsLoading, Converter={StaticResource BooleanToVisibilityConverter}}" Background="White" Width="100" CornerRadius="5" HorizontalAlignment="Center" VerticalAlignment="Center"  Height="87">
+            <StackPanel Height="91">
+                <mahAppControl:ProgressRing  Width="40" />
+                <TextBlock Text="Processing ..." HorizontalAlignment="Center" Foreground="Black"/>
+            </StackPanel>
+        </Border>
+    </Grid>
+</wb:WindowBase>

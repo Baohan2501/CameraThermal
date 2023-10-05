@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/Core.Model" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/Core.Model" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:9988/Service.svc?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/Core.Base" />
+  <xs:complexType name="TemperatureResponse">
+    <xs:sequence>
+      <xs:element name="_x003C_Success_x003E_k__BackingField" nillable="true" type="tns:Success" />
+      <xs:element name="guiID" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="TemperatureResponse" nillable="true" type="tns:TemperatureResponse" />
+  <xs:complexType name="Success">
+    <xs:sequence>
+      <xs:element name="_x003C_CameraId_x003E_k__BackingField" type="xs:int" />
+      <xs:element name="_x003C_DateTime_x003E_k__BackingField" type="xs:dateTime" />
+      <xs:element name="_x003C_GetZoneStatusSuccess_x003E_k__BackingField" nillable="true" type="tns:ArrayOfAlarmZone" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Success" nillable="true" type="tns:Success" />
+  <xs:complexType name="ArrayOfAlarmZone">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="AlarmZone" nillable="true" type="tns:AlarmZone" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfAlarmZone" nillable="true" type="tns:ArrayOfAlarmZone" />
+  <xs:complexType name="AlarmZone">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q1="http://schemas.datacontract.org/2004/07/Core.Base" base="q1:BinableBase">
+        <xs:sequence>
+          <xs:element name="averageTemperature" type="xs:double" />
+          <xs:element name="isAlarm" type="xs:boolean" />
+          <xs:element name="maximumTemperature" type="xs:double" />
+          <xs:element name="minimumTemperature" type="xs:double" />
+          <xs:element name="zoneId" type="xs:int" />
+          <xs:element name="zoneName" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="AlarmZone" nillable="true" type="tns:AlarmZone" />
+  <xs:complexType name="ArrayOfTemperatureInfo">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="TemperatureInfo" nillable="true" type="tns:TemperatureInfo" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfTemperatureInfo" nillable="true" type="tns:ArrayOfTemperatureInfo" />
+  <xs:complexType name="TemperatureInfo">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q2="http://schemas.datacontract.org/2004/07/Core.Base" base="q2:BinableBase">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="AverageTemperature" type="xs:double" />
+          <xs:element minOccurs="0" name="CameraId" type="xs:int" />
+          <xs:element minOccurs="0" name="CameraName" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="DateTime" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="MaximumTemperature" type="xs:double" />
+          <xs:element minOccurs="0" name="MinimumTemperature" type="xs:double" />
+          <xs:element minOccurs="0" name="ZoneId" type="xs:int" />
+          <xs:element minOccurs="0" name="ZoneName" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="TemperatureInfo" nillable="true" type="tns:TemperatureInfo" />
+  <xs:complexType name="ArrayOfSiteCamera">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="SiteCamera" nillable="true" type="tns:SiteCamera" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfSiteCamera" nillable="true" type="tns:ArrayOfSiteCamera" />
+  <xs:complexType name="SiteCamera">
+    <xs:sequence>
+      <xs:element name="_x003C_CameraZones_x003E_k__BackingField" nillable="true" type="tns:ArrayOfCameraZone" />
+      <xs:element name="_x003C_SiteName_x003E_k__BackingField" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="SiteCamera" nillable="true" type="tns:SiteCamera" />
+  <xs:complexType name="ArrayOfCameraZone">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="CameraZone" nillable="true" type="tns:CameraZone" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfCameraZone" nillable="true" type="tns:ArrayOfCameraZone" />
+  <xs:complexType name="CameraZone">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:Camera">
+        <xs:sequence>
+          <xs:element name="isSelected" type="xs:boolean" />
+          <xs:element name="zones" nillable="true" type="tns:ArrayOfAlarmZoneSetting" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="CameraZone" nillable="true" type="tns:CameraZone" />
+  <xs:complexType name="Camera">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q3="http://schemas.datacontract.org/2004/07/Core.Base" base="q3:BinableBase">
+        <xs:sequence>
+          <xs:element name="cameraid" type="xs:int" />
+          <xs:element name="cameraname" nillable="true" type="xs:string" />
+          <xs:element name="ipaddress" nillable="true" type="xs:string" />
+          <xs:element name="password" nillable="true" type="xs:string" />
+          <xs:element name="user" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="Camera" nillable="true" type="tns:Camera" />
+  <xs:complexType name="ArrayOfAlarmZoneSetting">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="AlarmZoneSetting" nillable="true" type="tns:AlarmZoneSetting" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfAlarmZoneSetting" nillable="true" type="tns:ArrayOfAlarmZoneSetting" />
+  <xs:complexType name="AlarmZoneSetting">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q4="http://schemas.datacontract.org/2004/07/Core.Base" base="q4:BinableBase">
+        <xs:sequence>
+          <xs:element name="isSelected" type="xs:boolean" />
+          <xs:element name="maxAlarmTemperature" type="xs:double" />
+          <xs:element name="zoneId" type="xs:int" />
+          <xs:element name="zoneName" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="AlarmZoneSetting" nillable="true" type="tns:AlarmZoneSetting" />
+</xs:schema>
